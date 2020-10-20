@@ -1,0 +1,7 @@
+C:\Users\enesi\source\repos\SchreibTools\bin\Debug\SchreibTools.exe.config
+C:\Users\enesi\source\repos\SchreibTools\bin\Debug\SchreibTools.exe
+C:\Users\enesi\source\repos\SchreibTools\bin\Debug\SchreibTools.pdb
+C:\Users\enesi\source\repos\SchreibTools\obj\Debug\SchreibTools.csprojAssemblyReference.cache
+C:\Users\enesi\source\repos\SchreibTools\obj\Debug\SchreibTools.csproj.CoreCompileInputs.cache
+C:\Users\enesi\source\repos\SchreibTools\obj\Debug\SchreibTools.exe
+C:\Users\enesi\source\repos\SchreibTools\obj\Debug\SchreibTools.pdb
